@@ -1,8 +1,6 @@
 # hello-world
-テスト
-テスト2
+Hello, World!
 
 # Links
 - [GitHub](https://github.com/)
-- [Twitter](https://twitter.com/)
-- [facebook](https://facebook.com/)
+- [Hello World](https://guides.github.com/activities/hello-world/)
